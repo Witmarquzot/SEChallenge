@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <SQLTYPE>LOCALMICROSOFT</SQLTYPE>
+  <USER>PayLocity</USER>
+  <PASSWORD>SeemsGreat</PASSWORD>
+  <SERVER>LAPTOP-WITMARQU\SQLEXPRESS</SERVER> 
+  <DATABASE>ACustomer</DATABASE>
+  <!--<USER>sa</USER>
+  <PASSWORD>bmobile</PASSWORD>
+  <SERVER>sql2008r2</SERVER> -->
+</config>

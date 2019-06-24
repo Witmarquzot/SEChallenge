@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DBConnection>
+    <sqlType>microsoft</sqlType> <!--microsoft mysql [this determines which connection sets we use]-->
+    <Server>Server</Server>
+    <User>User</User>
+    <EncryptedPass>pass</EncryptedPass>
+    <Database></Database>
+</DBConnection>

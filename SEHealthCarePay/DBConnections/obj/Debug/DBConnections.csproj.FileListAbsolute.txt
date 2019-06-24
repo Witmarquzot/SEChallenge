@@ -1,0 +1,12 @@
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\obj\Debug\DBConnections.csproj.CoreCompileInputs.cache
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\bin\Debug\DBConnections.dll
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\bin\Debug\DBConnections.pdb
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\bin\Debug\BouncyCastle.Crypto.dll
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\bin\Debug\Google.Protobuf.dll
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\bin\Debug\MySql.Data.dll
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\bin\Debug\Google.Protobuf.xml
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\bin\Debug\MySql.Data.xml
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\obj\Debug\DBConnections.csprojAssemblyReference.cache
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\obj\Debug\DBConnections.csproj.CopyComplete
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\obj\Debug\DBConnections.dll
+C:\miscApps\paylocity\SEHealthCarePay\DBConnections\obj\Debug\DBConnections.pdb

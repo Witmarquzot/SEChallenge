@@ -1,0 +1,37 @@
+Discount Page
+
+Conditions = Starts With,Ends With,Contains DropDown
+
+Condion01 = A to Z
+Percent = 1 and 100 , whole numbers only
+Fields = FirstName or LastName  DropDown
+Type = Exclusive always set
+
+
+EMp summary Page
+EmpSum = Pay check summary screen
+LastName, FirstName, FamilyMember(s), Health Cost , Pretax AMT,  Annual Health Cost, Annual Pretax Amt
+
+Click on row pops Employee details
+
+
+
+
+Options
+EmpHealtCost > 0.00  
+FamilyMember cost > 0.00
+PayChecksper year > 0
+StandardPaycheck > 0.00
+Options table need to always check these value are present
+DB also need to check for procs, if exist alter else add
+
+employee list, 
+LastName, FirstName, Street address, FamilyMember(s)
+(+)
+
+EmpDetails (will need to add ID)  = Employee screen details (add family, change address etc)
+Employee must have last Name and first Name
+FamilyMember must have First Name
+Family memeber last name of Blank will save as null
+Allow Delete (Are you Sure, Yes/No)
+TRIM ALL NAMES FRONT AND BACK
